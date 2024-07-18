@@ -1,0 +1,101 @@
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\appsettings.Development.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\appsettings.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\vendinha.exe
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\vendinha.deps.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\vendinha.runtimeconfig.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\vendinha.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\vendinha.pdb
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\NHibernate.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.AssemblyReference.cache
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.AssemblyInfoInputs.cache
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.AssemblyInfo.cs
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.CoreCompileInputs.cache
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.MvcApplicationPartsAssemblyInfo.cs
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.MvcApplicationPartsAssemblyInfo.cache
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.build.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.development.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.vendinha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.build.vendinha.props
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vendinha.props
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vendinha.props
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\scopedcss\bundle\vendinha.styles.css
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.Up2Date
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\refint\vendinha.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.pdb
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\vendinha.genruntimeconfig.cache
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\obj\Debug\net8.0\ref\vendinha.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\FluentNHibernate.dll
+C:\Danysoft\Estudos\grpc\vendinha\vendinha\bin\Debug\net8.0\Npgsql.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\vendinha.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\vendinha.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\vendinha.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\vendinha.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\vendinha.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\FluentNHibernate.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\NHibernate.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Npgsql.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.vendinha.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.build.vendinha.props
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vendinha.props
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vendinha.props
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\scopedcss\bundle\vendinha.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.csproj.CopyComplete
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\refint\vendinha.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\vendinha.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\obj\Debug\net8.0\ref\vendinha.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\vendinha\vendinha\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,0 +1,6 @@
+@vendinha_HostAddress = http://localhost:5178
+
+GET {{vendinha_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
